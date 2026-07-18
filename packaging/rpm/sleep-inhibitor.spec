@@ -48,6 +48,7 @@ install -Dm644 dbus/com.addmix.SleepInhibitor.conf \
 
 
 %files
+%doc README
 %license LICENSE
 
 %{_bindir}/sleep_inhibitor
