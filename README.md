@@ -1,6 +1,6 @@
 # Bazzite Deck Sleep Inhibitor
 
-Bazzite Deck Sleep Inhibitor is a minimal ScreenSaver implementation designed to allow games running under Bazzite/SteamOS Game Mode to request system sleep inhibitors. This is useful especially for HTPC (console) usage, to prevent the system from sleeping while watching content.
+Bazzite Deck Sleep Inhibitor allows programs running in Bazzite/SteamOS Game Mode to prevent system sleep. The project implements a minimal ScreenSaver interface to support the standard DBus sleep inhibition path. This is useful especially for HTPC (console) usage, to prevent the system from sleeping while watching content.
 
 This package will be added to Bazzite in the future (https://github.com/ublue-os/bazzite/pull/5234), but is currently blocked by a Steam client bug (https://github.com/ValveSoftware/SteamOS/issues/2619), but manual installation is available.
 
