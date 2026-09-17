@@ -10,7 +10,7 @@ This package will be included with Bazzite when this PR is merged (https://githu
 Bazzite-Deck-Sleep-Inhibitor is hosted on Fedora COPR, and can be installed into Bazzite using these commands:
 ```bash
 sudo dnf5 copr enable addmixbb/Bazzite-Deck-Sleep-Inhibitor #enable the COPR repository
-rpm-ostree install bazzite-deck-sleep-inhibitor #install Bazzite-Deck-Sleep-Inhibitor
+sudo rpm-ostree install bazzite-deck-sleep-inhibitor #install Bazzite-Deck-Sleep-Inhibitor
 ```
 
 
